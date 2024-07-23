@@ -1,5 +1,5 @@
 # ActiveDirectory-V1
 Web application to interact with the Active Directory in the Windows server.
+User can changes the password , and can check the direct reports and AD profile picture.
 Requirements.
-Windows Server os in Virtual box and ping the ip address to the host file in windows 32.
 Visual C++ for writting native methods.
