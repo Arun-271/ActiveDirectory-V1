@@ -7,7 +7,7 @@ import java.util.TimeZone;
 
 public class NativeMethods {
 	 static{
-	       System.loadLibrary("testNativeMethods");
+	       System.loadLibrary("NativeMethods");
 	    }
 	    public native int createUser(String firstName , String lastName , String accountName,String intialPassword,
 	    		String descp , String email , String street,String city,
